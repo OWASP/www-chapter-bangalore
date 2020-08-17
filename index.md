@@ -7,8 +7,8 @@ level: 0
 
 region: Asia
 
-meetup-group: OWASP-Barcelona
-country: Spain
+meetup-group: OWASP-Bangalore
+country: India
 postal-code: 
 
 ---
