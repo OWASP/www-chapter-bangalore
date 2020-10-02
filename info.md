@@ -1,5 +1,5 @@
-<!--### Chapter Information
-* Chapter Region -->
+### Chapter Information
+
 
 
 ![OWASP Bangalore Chapter](Owasp-bangalore-logo.png
