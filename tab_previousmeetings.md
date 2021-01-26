@@ -1,5 +1,6 @@
 ---
-title: Previousmeetings
+title: PreviousMeetings
+displaytext: Previous Meetings
 tab: true
 order: 1
 tags: blr
