@@ -9,9 +9,6 @@ tags: blr
 
 
 # **Chapter Leaders**
-
-### KV Prashanth (2012 - Present)
-
 ### Riyaz Walikar (2014 - Present)
 
 Pentester/web security evangelist. I have been active in the security
@@ -31,7 +28,7 @@ Twitter: [@riyazwalikar](https://www.twitter.com/riyazwalikar) Twitter:
 
 ### **Vandana Verma (2017 - Present)**
 
-Vandana has over 12 years of experience in application,
+Vandana has over 15 years of experience in application,
 Infrastructure/network, Mobile and Cloud security domain which includes
 manual and automated code review, vulnerability assessment, Pentesting
 and remediation support.
@@ -71,3 +68,5 @@ Arun S (June,2018 - Present)
 ### Harinath (2002 - 2012)
 
 ### [Akash Mahajan](User:Makash "wikilink") (2012 - 2017)
+
+### KV Prashanth (2012 - March 2020)
