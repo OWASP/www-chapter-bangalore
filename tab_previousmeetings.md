@@ -29,6 +29,54 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
+<td><p>114</p></td>
+<td><p>09 January 2020</p></td>
+<td><p>Virtual Meet (OWASP Nettacker Project)</p></td>
+<td><p>7:30 PM to 9:00 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>113</p></td>
+<td><p>26 September 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>10:00 AM to 1:00 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>112</p></td>
+<td><p>29 August 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>9:30 AM to 1:30 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>111</p></td>
+<td><p>20 June 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>9:30 AM to 12:30 PM</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>110</p></td>
 <td><p>23 May 2020</p></td>
 <td><p>Virtual Meet</p></td>
