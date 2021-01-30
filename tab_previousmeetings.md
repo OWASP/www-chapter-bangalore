@@ -5,7 +5,11 @@ tab: true
 order: 1
 tags: blr
 ---
-
+<style>
+  main {
+    word-break: normal;
+  } 
+</style>
 # **Previous Meeting Venue and Dates**
 
 <table>
