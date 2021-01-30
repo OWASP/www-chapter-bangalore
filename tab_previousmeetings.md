@@ -27,7 +27,7 @@ tags: blr
 <tr class="even">
 <td><p>106</p></td>
 <td><p>08 April 2020</p></td>
-<td><p>Virtual Meet</p></td>
+<td><p>Virtual Meet(DevSecOps: Separating myth from reality)</p></td>
 <td><p>09:30 AM</p></td>
 </tr>
 <tr class="odd">
@@ -39,7 +39,7 @@ tags: blr
 <tr class="even">
 <td><p>105</p></td>
 <td><p>05 April 2020</p></td>
-<td><p>Virtual Meet</p></td>
+<td><p>Virtual Meet (Introduction to Cyber Recon)</p></td>
 <td><p>09:30 AM</p></td>
 </tr>
 <tr class="odd">
