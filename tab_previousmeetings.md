@@ -29,6 +29,42 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
+<td><p>110</p></td>
+<td><p>23 May 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>9:30 AM to 1:30 PM</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>109</p></td>
+<td><p>18 April 2020</p></td>
+<td><p>Virtual Meet (OWASP Top 10 For APIs)</p></td>
+<td><p>9:00 PM to 11:00 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>107</p></td>
+<td><p>18 April 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>9:30 AM to 11:30 AM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>106</p></td>
 <td><p>08 April 2020</p></td>
 <td><p>Virtual Meet(DevSecOps: Separating myth from reality) https://www.youtube.com/channel/UCfERQBIjbZp2NNY8D2QlPSQ</p></td>
