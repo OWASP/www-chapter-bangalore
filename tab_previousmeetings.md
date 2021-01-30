@@ -31,7 +31,7 @@ tags: blr
 <tr class="even">
 <td><p>106</p></td>
 <td><p>08 April 2020</p></td>
-<td><p>Virtual Meet(DevSecOps: Separating myth from reality)</p></td>
+<td><p>Virtual Meet(DevSecOps: Separating myth from reality) https://www.youtube.com/channel/UCfERQBIjbZp2NNY8D2QlPSQ</p></td>
 <td><p>8:00 PM to 9:30 PM IST</p></td>
 </tr>
 <tr class="odd">
@@ -43,7 +43,7 @@ tags: blr
 <tr class="even">
 <td><p>105</p></td>
 <td><p>05 April 2020</p></td>
-<td><p>Virtual Meet (Introduction to Cyber Recon)</p></td>
+<td><p>Virtual Meet (Introduction to Cyber Recon)https://www.youtube.com/channel/UCfERQBIjbZp2NNY8D2QlPSQ</p></td>
 <td><p>6:00 PM to 7:30 PM IST</p></td>
 </tr>
 <tr class="odd">
