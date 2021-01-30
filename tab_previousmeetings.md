@@ -30,7 +30,7 @@ tags: blr
 </tr>
 <tr class="even">
 <td><p>114</p></td>
-<td><p>09 January 2020</p></td>
+<td><p>09 January 2021</p></td>
 <td><p>Virtual Meet (OWASP Nettacker Project)</p></td>
 <td><p>7:30 PM to 9:00 PM IST</p></td>
 </tr>
