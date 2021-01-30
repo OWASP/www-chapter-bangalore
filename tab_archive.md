@@ -8,6 +8,35 @@ tags: blr
 
 # **Chapter News**
 
+### 09 January 2021
+
+Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/276065050/) for more information
+
+### 26 September 2020
+
+Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/272887757/) for more information
+
+### 29 August 2020
+
+Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/272556608/) for more information
+
+### 20 June 2020
+
+Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/271349595/) for more information
+
+### 23 May 2020
+
+Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/270619971/) for more information
+
+### 29 April 2020
+
+OWASP Top 10 For APIs. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/270320498/) for
+more information
+
+### 18 April 2020
+
+Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/270102903/) for more information
+
 ### 08 April 2020
 
 DevSecOps: Separating myth from reality. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/269811010/) for more information
@@ -26,14 +55,14 @@ more information
 
 ### 15 February 2020
 
-Details of the next combined null/OWASP/G4H Bangalore meeting have been
+Details of the next null/OWASP/G4H Bangalore meeting have been
 posted. Please follow the
 [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/268392596/) for
 more information
 
 ### 18 January 2020
 
-Details of the next combined null/OWASP/G4H Bangalore meeting have been
+Details of the next null/OWASP/G4H Bangalore meeting have been
 posted. Please follow the
 [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/267407558/) for
 more information
