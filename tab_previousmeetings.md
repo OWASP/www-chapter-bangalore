@@ -25,6 +25,30 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
+<td><p>106</p></td>
+<td><p>08 April 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>09:30 AM</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>105</p></td>
+<td><p>05 April 2020</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>09:30 AM</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>104</p></td>
 <td><p>14 March 2020</p></td>
 <td><p>Cyware Labs India</p></td>
