@@ -8,6 +8,22 @@ tags: blr
 
 # **Chapter News**
 
+### 08 April 2020
+
+DevSecOps: Separating myth from reality. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/269811010/) for more information
+
+### 05 April 2020
+
+Introduction to Cyber Recon. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/269869734/) for
+more information
+
+### 14 March 2020
+
+Details of the next combined null/OWASP/G4H Bangalore meeting have been
+posted. Please follow the
+[link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/268734910/) for
+more information
+
 ### 15 February 2020
 
 Details of the next combined null/OWASP/G4H Bangalore meeting have been
