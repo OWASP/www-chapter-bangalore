@@ -28,7 +28,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### Short Links for sharing and easy to rememberWiki Page - <https://bit.ly/owaspblr>
 
-  - Next OWASP Bangalore Meet <https://bit.ly/owaspblr-meet>
+  
   - OWASP Bangalore Mailing List
     <https://groups.google.com/a/owasp.org/forum/#!forum/bangalore-chapter/join>
   - OWASP Global Google Calendar
