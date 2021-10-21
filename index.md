@@ -15,7 +15,7 @@ postal-code:
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [Bangalore Meetup Group](https://www.meetup.com/bangalore-owasp-meetup-group/)
+We schedule our meetings on the [Bangalore Meetup Group](https://www.meetup.com/owasp-bangalore-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
