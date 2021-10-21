@@ -5,7 +5,7 @@ title: OWASP Bangalore
 tags: blr
 level: 0
 region: Asia
-meetup-group: bangalore-owasp-meetup-group
+meetup-group: owasp-bangalore-chapter
 country: India
 postal-code: 
 
@@ -15,7 +15,7 @@ postal-code:
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [Bangalore Meetup Group](https://www.meetup.com/owasp-bangalore-chapter/)
+We schedule our meetings on the [OWASP Bangalore Chapter Meetup](https://www.meetup.com/owasp-bangalore-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
