@@ -7,7 +7,7 @@
 
 ### Social Links
  
-* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/bangalore-chapter/join)
+* [Join Our Mailing List](https://groups.google.com/a/owasp.org/g/bangalore-chapter)
 
 * [MeetUp](https://www.meetup.com/owasp-bangalore-chapter/)
 
@@ -18,7 +18,7 @@
 
 ### Become speaker
 
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Speaker Agreement](https://owasp.org/www-policy/)
 
 
 ### useful Links
