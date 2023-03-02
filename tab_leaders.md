@@ -42,7 +42,7 @@ InfoSecgirls
 
 Twitter: [@InfoSecVandana](https://www.twitter.com/InfosecVandana)
 
-### **Veerababu Penugonda(2022 - present)**
+### **Veerababu Penugonda (2022 - present)**
 Veerababu well known as Mr-IoT and has over 8 + years experience in IoT and Hardware Security,
 he handles his own community called IoTSecurity101
 involved in developing tools and checklists for IoT Security
