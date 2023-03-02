@@ -48,6 +48,7 @@ he handles his own community called IoTSecurity101
 involved in developing tools and checklists for IoT Security
 
 *Communities Moderator:-* Null, OWASPBangalore Chapter, IoTSecurity101
+
 Twitter: [@Mr-IoT](https://twitter.com/v33riot)
 Blog: https://www.iotpentest.com/
 
