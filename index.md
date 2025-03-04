@@ -17,8 +17,6 @@ postal-code:
 
 We schedule our meetings on the [OWASP Bangalore Chapter Meetup](https://www.meetup.com/owasp-bangalore-chapter/)
 
-{% include chapter_events.html group=page.meetup-group %}
-
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Join our low traffic mailing list for event information
