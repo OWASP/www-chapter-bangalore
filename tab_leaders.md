@@ -57,22 +57,7 @@ Github: [bugwrangler](https://github.com/bugwrangler)
 Arun S (June,2018 - Present)
 
 ## Previous Chapter Leaders
-### Riyaz Walikar (2014 - 2017)
-
-Pentester/web security evangelist. I have been active in the security
-community for the better part of the last 7 years by working closely
-with the Bangalore OWASP chapter and null - The Open Security community.
-
-My technical interests lie with programming, bug bounty, malware
-analysis, breaking web applications, playing CTFs, researching devices
-that fall under the Internet of Things category and penetration testing
-networks exposed to the Internet. When not writing/breaking code, you
-can find me sleeping, playing football, reading or fishing.
-
-Blog: <https://ibreak.software>
-
-Twitter: [@riyazwalikar](https://www.twitter.com/riyazwalikar) Twitter:
-[@wincmdfu](https://www.twitter.com/wincmdfu)
+### Riyaz Walikar (2014 - 2018)
 
 ### Harinath (2002 - 2012)
 
