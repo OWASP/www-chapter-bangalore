@@ -90,6 +90,30 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
+<td><p>147</p></td>
+<td><p>21 September 2024</p></td>
+<td><p>In-Person Meet</p></td>
+<td><p>09:30 AM to 1:00 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>146</p></td>
+<td><p>31 August 2024</p></td>
+<td><p>In-Person Meet</p></td>
+<td><p>09:30 AM to 1:00 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>138</p></td>
 <td><p>15 December 2023</p></td>
 <td><p>Virtual Meet</p></td>
