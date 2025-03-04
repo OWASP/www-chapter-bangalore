@@ -29,7 +29,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>152</p></td>
+<td><p>147</p></td>
 <td><p>15 February 2025</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -41,7 +41,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>151</p></td>
+<td><p>146</p></td>
 <td><p>25 January 2025</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -53,7 +53,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>150</p></td>
+<td><p>145</p></td>
 <td><p>15 December 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -65,7 +65,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>149</p></td>
+<td><p>144</p></td>
 <td><p>23 November 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:30 PM IST</p></td>
@@ -78,7 +78,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>148</p></td>
+<td><p>143</p></td>
 <td><p>26 October 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:30 PM IST</p></td>
@@ -90,7 +90,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>147</p></td>
+<td><p>142</p></td>
 <td><p>21 September 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -102,7 +102,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>146</p></td>
+<td><p>141</p></td>
 <td><p>31 August 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -114,7 +114,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>145</p></td>
+<td><p>140</p></td>
 <td><p>20 July 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -126,7 +126,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>144</p></td>
+<td><p>139</p></td>
 <td><p>15 June 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -138,7 +138,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>143</p></td>
+<td><p>138</p></td>
 <td><p>25 May 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -150,7 +150,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>142</p></td>
+<td><p>137</p></td>
 <td><p>27 April 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -162,7 +162,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>141</p></td>
+<td><p>136</p></td>
 <td><p>23 March 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -174,7 +174,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>140</p></td>
+<td><p>135</p></td>
 <td><p>17 February 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -186,7 +186,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>139</p></td>
+<td><p>134</p></td>
 <td><p>20 January 2024</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>09:30 AM to 1:00 PM IST</p></td>
@@ -198,7 +198,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>138</p></td>
+<td><p>133</p></td>
 <td><p>16 December 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -210,7 +210,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>137</p></td>
+<td><p>132</p></td>
 <td><p>25 November 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -222,7 +222,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>136</p></td>
+<td><p>131</p></td>
 <td><p>14 October 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -234,7 +234,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>135</p></td>
+<td><p>130</p></td>
 <td><p>16 September 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -246,7 +246,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>134</p></td>
+<td><p>129</p></td>
 <td><p>19 August 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -258,7 +258,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>133</p></td>
+<td><p>128</p></td>
 <td><p>15 July 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -270,7 +270,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>132</p></td>
+<td><p>127</p></td>
 <td><p>24 June 2023</p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
@@ -282,7 +282,7 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
-<td><p>131</p></td>
+<td><p>126</p></td>
 <td><p>20 May 2023 </p></td>
 <td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
