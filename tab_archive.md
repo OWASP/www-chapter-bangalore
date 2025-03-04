@@ -8,6 +8,14 @@ tags: blr
 
 # **Chapter News**
 
+### 15 February 2025
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/306113996/) for more information
+
+### 25 January 2025
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/305648411/) for more information
+
 ### 09 January 2021
 
 Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/276065050/) for more information
