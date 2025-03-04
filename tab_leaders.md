@@ -35,28 +35,10 @@ involved in developing tools and checklists for IoT Security
 Twitter: [@Mr-IoT](https://twitter.com/v33riot)
 
 
-## Current Chapter volunteers
 
-### Abhinav Sejpal (2015 - Present)
-
-Fell in love with the power of software at age 17, and he is still in
-love. He is a security researcher working at Accenture Digital. He has
-reported security vulnerabilities 50+ Unique product giants all over the
-world including Apple, Adobe , Twitter, Linkedin, Yahoo , Pinterest, VK
-etc. He enjoys finding and exploiting software vulnerabilities via
-reverse engineering, source code auditing, fuzzing. He researches
-primarily focused Android , iOS Mobile App and open source project like
-ASVS, OWASP Mobile Top 10, Mobile Security Framework etc.
-
-Speaker @ OWASP, Null , Weekend Testing Bangalore Chapter
-
-Blog: <http://bugwrangler.in>
-
-Github: [bugwrangler](https://github.com/bugwrangler)
-
-Arun S (June,2018 - Present)
 
 ## Previous Chapter Leaders
+
 ### Riyaz Walikar (2014 - 2018)
 
 ### Harinath (2002 - 2012)
