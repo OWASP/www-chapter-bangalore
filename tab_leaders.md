@@ -34,7 +34,6 @@ involved in developing tools and checklists for IoT Security
 
 Twitter: [@Mr-IoT](https://twitter.com/v33riot)
 
-Blog: <https://www.iotpentest.com/>
 
 ## Current Chapter volunteers
 
