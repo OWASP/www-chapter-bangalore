@@ -22,10 +22,16 @@ tags: blr
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
-<td><p>138</p></td>
-<td><p>15 December 2023</p></td>
-<td><p>Virtual Meet</p></td>
+<td><p>150</p></td>
+<td><p>15 December 2024</p></td>
+<td><p>In-Person Meet</p></td>
 <td><p>10:00 AM to 1:00 PM IST</p></td>
 </tr>
 <tr class="odd">
@@ -33,6 +39,12 @@ tags: blr
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>138</p></td>
+<td><p>15 December 2023</p></td>
+<td><p>Virtual Meet</p></td>
+<td><p>10:00 AM to 1:00 PM IST</p></td>
 </tr>
 <tr class="odd">
 <td></td>
