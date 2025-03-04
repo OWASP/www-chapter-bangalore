@@ -65,6 +65,31 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
+<td><p>149</p></td>
+<td><p>23 November 2024</p></td>
+<td><p>In-Person Meet</p></td>
+<td><p>09:30 AM to 1:30 PM IST</p></td>
+</tr>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>148</p></td>
+<td><p>26 October 2024</p></td>
+<td><p>In-Person Meet</p></td>
+<td><p>09:30 AM to 1:30 PM IST</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>138</p></td>
 <td><p>15 December 2023</p></td>
 <td><p>Virtual Meet</p></td>
