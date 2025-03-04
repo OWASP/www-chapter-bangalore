@@ -43,12 +43,6 @@ tags: blr
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><p>115</p></td>
 <td><p>14 March 2022</p></td>
