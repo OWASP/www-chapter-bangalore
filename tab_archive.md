@@ -16,6 +16,53 @@ Details of the combined OWASP/null Bangalore meeting have been posted. Please fo
 
 Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/305648411/) for more information
 
+### 15 December 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events) for more information
+
+### 23 November 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/304686063) for more information
+
+### 26 October 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/304183468) for more information
+
+### 21st September 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/303385903) for more information
+
+### 31 August 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events) for more information
+
+### 20 July 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/301657456) for more information
+
+### 15 June 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/301598714) for more information
+
+### 25 May 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/301096225) for more information
+
+### 27 April 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/300066541) for more information
+
+### 23 March 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/299867913) for more information
+
+### 17 February 2024
+
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/299149652) for more information
+
+### 20 January 2024
+Details of the combined OWASP/null Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/owasp-bangalore-chapter/events/298410409) for more information
+
 ### 09 January 2021
 
 Details of the combined null/OWASP/G4H Bangalore meeting have been posted. Please follow the [link](https://www.meetup.com/OWASP-Bangalore-Chapter/events/276065050/) for more information
