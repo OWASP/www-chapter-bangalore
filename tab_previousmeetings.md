@@ -29,6 +29,27 @@ tags: blr
 <td></td>
 </tr>
 <tr class="even">
+<td><p>126</p></td>
+<td><p>15 December 2022</p></td>
+<td><p>In-Person Meet </p></td>
+<td><p>9:30 AM to 1:30 PM IST</p></td>
+</tr>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>115</p></td>
 <td><p>14 March 2022</p></td>
 <td><p>Virtual Meet (OWASP Nettacker Project)</p></td>
