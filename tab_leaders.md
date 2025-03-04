@@ -46,3 +46,7 @@ Twitter: [@Mr-IoT](https://twitter.com/v33riot)
 ### [Akash Mahajan](User:Makash "wikilink") (2012 - 2017)
 
 ### KV Prashanth (2012 - March 2020)
+
+## Previous Chapter Volunteers
+### Abhinav Sejpal
+
