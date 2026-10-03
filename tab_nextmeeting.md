@@ -8,7 +8,7 @@ tags: blr
 
 # **Next Meeting**
 
-## 22 March 2025
+## 24 October 2026
 
 Saturday 09:30 PM - 02:30 PM The meets are free for anyone to attend.
 There are absolutely no fees. Just come with an open mind and

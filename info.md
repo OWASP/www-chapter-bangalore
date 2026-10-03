@@ -9,7 +9,7 @@
  
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/g/bangalore-chapter)
 
-* [MeetUp](https://www.meetup.com/owasp-bangalore-chapter/)
+* [Meetup Details](https://luma.com/owaspbangalore)
 
 * [Facebook](https://www.facebook.com/OWASPBangalore/)
  

@@ -24,7 +24,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 ### Follow @owaspbangalore for event updates on Twitter
 **[OWASP Bangalore Twitter Account](https://twitter.com/owaspbangalore)**
 
-### Short Links for sharing and easy to remember Wiki Page - <https://bit.ly/owaspblr>
+### OWASP Bangalore Chapter Page - <https://owasp.org/chapters/bangalore?tab=members>
   
   - [OWASP Bangalore Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/bangalore-chapter/join)
   - [OWASP Global Google Calendar](https://bit.ly/owaspblr-googlecal)
