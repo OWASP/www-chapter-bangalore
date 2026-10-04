@@ -1,0 +1,23 @@
+leaders:
+  - name: Vandana Verma
+    email: vandana.verma@owasp.org
+    github: vermava
+  - name: Veera Babu
+location:
+  country: India
+  country_code: IN
+  region: Karnataka
+  city: Bangalore
+  latitude: 12.98815675
+  longitude: 77.62260003796
+meetup_group: owasp-bangalore-chapter
+name: OWASP Bangalore
+repositories:
+  - name: www-chapter-bangalore
+    url: https://github.com/OWASP/www-chapter-bangalore
+    description: 'OWASP Foundation Web Repository for '
+tags:
+  - blr
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bangalore
